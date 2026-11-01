@@ -30,7 +30,7 @@ def extract_invoice_data(unstructured_text: str) -> InvoiceSchema:
     Sends unstructured text to Gemini and extracts data matching the InvoiceSchema Pydantic model.
     """
     # Initialize the client. 
-    # By default, genai.Client() automatically looks for the GEMINI_API_KEY environment variable loaded by dotenv.
+    
     client = genai.Client()
 
     # Construct the parameterized prompt
@@ -76,5 +76,5 @@ if __name__ == "__main__":
     print("--- Executing LLM Structured Extraction Pipeline ---")
     structured_data = extract_invoice_data(sample_invoice)
     
-    # Output the result as a nicely formatted JSON string
+    # Output the result as JSON string
     print(structured_data.model_dump_json(indent=2))
