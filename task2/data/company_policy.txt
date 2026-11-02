@@ -1,0 +1,19 @@
+
+    Company Policy Manual - Acme Corporation (2026 Update)
+    
+    Section 1: Remote Work Policy
+    Employees are permitted to work remotely up to 3 days per week with prior manager approval. 
+    Core working hours are between 10:00 AM and 4:00 PM local time. All remote employees must maintain 
+    a secure internet connection and use company-issued VPN software. (Source Page: 12)
+    
+    Section 2: Travel & Expense Reimbursement
+    Business travel must be booked through the corporate travel portal at least two weeks in advance. 
+    Flights must be economy class. Daily meal allowances are capped at $75 per day within domestic regions 
+    and $110 per day for international travel. Receipts must be uploaded within 14 days of trip completion. 
+    (Source Page: 28)
+    
+    Section 3: Professional Development Stipend
+    Every full-time employee receives an annual professional development stipend of $1,500. This can be 
+    used for online courses, certifications, books, and technology conferences directly related to their role. 
+    Unused stipends do not roll over into the next calendar year. (Source Page: 45)
+    
