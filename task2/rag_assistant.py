@@ -66,7 +66,7 @@ def build_rag_pipeline(documents: list[Document]):
 
 if __name__ == "__main__":
     # For demonstration, let's create a temporary sample text file to load.
-    # (You can replace this later with PyPDFLoader for real PDFs: e.g., PyPDFLoader("your_file.pdf"))
+    
     sample_text_content = """
     Company Policy Manual - Acme Corporation (2026 Update)
     
